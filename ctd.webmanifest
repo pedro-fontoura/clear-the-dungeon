@@ -1,0 +1,19 @@
+{
+    "name": "Clear the Dungeon",
+    "short_name": "CTD",
+    "description": " solitaire card game played with a standard 52 card deck",
+    "icons": [
+        {
+            "src": "icons/ctd-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#778899 ",
+    "background_color": "#778899 ",
+	"orientation": "landscape-primary",
+	"categories": ["entertainment", "games", "cards", "solitaire"],
+	"lang": "eng-uk"
+}
